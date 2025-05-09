@@ -34,6 +34,8 @@ Plots include:
 
 ## ▶️ How to Run
 
+> 📓 **View the notebook here** → [Simulating_Meteor_Impacts.ipynb](Simulating_Meteor_Impacts.ipynb)
+
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Alexk6147/SimulatingMeteorImpacts.git
